@@ -11,7 +11,6 @@ The UI and routes change automatically based on the **hostname** or **emulated h
 - **Tenant detection** from hostname (`admin.`, `client.`, `api.`)
 - **Different UI + routes per tenant**
 - **Emulate Host** dropdown for easy local testing
-- Clean, modern UI styled with **Tailwind CSS**
 - Simple + modular folder structure
 
 ---
